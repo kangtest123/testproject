@@ -1,4 +1,4 @@
-public class test {
+public class testtest {
     public static void main(String[] args) {
         System.out.printf("test123");
     }
